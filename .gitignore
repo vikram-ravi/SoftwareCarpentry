@@ -1,0 +1,6 @@
+fig*
+*~
+*.png
+.RData
+.Rhistory
+.Rproj.user
