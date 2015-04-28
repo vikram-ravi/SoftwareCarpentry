@@ -1,3 +1,5 @@
+## software capentry
+## pracice for R 
 x<-8
 x <- 8
 y <- x*2
