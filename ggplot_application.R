@@ -98,5 +98,5 @@ gapminder %>%
   ggplot(aes(y=lifeExp, x=gdpPercap, color=country)) + 
   geom_line() +
   facet_wrap(~country)
-install.packages(ggthemes)
-library(ggthemes)
+install.packages("ggthemes")
+library("ggthemes")
